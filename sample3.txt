@@ -21,3 +21,24 @@
     <li>orange</li>
     <li>grapes</li>
 </ol> 
+
+
+<ul>
+    <li>onion</li>
+</ul>
+<ol type="1" start="2">
+    <li>potato</li>
+</ol>
+<ul  type="circle">
+    <li>milk</li>
+</ul>
+<ol type="I" start="2">
+    <li>milk</li>
+    <li>curd</li>
+</ol>
+
+</body>
+    
+    
+</body>
+</html>
